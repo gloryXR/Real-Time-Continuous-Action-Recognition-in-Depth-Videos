@@ -1,0 +1,16 @@
+﻿生成启动时间为 2015/2/11 10:28:36。
+     1>项目“C:\Users\Zson\Desktop\MSR_part (soon's copy_c++)\MSR\MSR\MSR.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         F:\VS2012\VC\bin\CL.exe /c /I"E:\Desktop\graduate1_1\lab_mr\translate\eigen-eigen-10219c95fe65" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /D _CRT_SECURE_NO_WARNINGS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt "..\..\..\MSR_part (soon's copy_c++)\MSR\MSR\ForestBuilder.cpp"
+         ForestBuilder.cpp
+       Link:
+         F:\VS2012\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Zson\Desktop\MSR_part (soon's copy_c++)\MSR\Debug\MSR.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Zson\Desktop\MSR_part (soon's copy_c++)\MSR\Debug\MSR.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Zson\Desktop\MSR_part (soon's copy_c++)\MSR\Debug\MSR.lib" /MACHINE:X86 Debug\ForestBuilder.obj
+         Debug\GetDataHelper.obj
+         Debug\Tools.obj
+         Debug\MSR.obj
+         MSR.vcxproj -> C:\Users\Zson\Desktop\MSR_part (soon's copy_c++)\MSR\Debug\MSR.exe
+     1>已完成生成项目“C:\Users\Zson\Desktop\MSR_part (soon's copy_c++)\MSR\MSR\MSR.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:17.16

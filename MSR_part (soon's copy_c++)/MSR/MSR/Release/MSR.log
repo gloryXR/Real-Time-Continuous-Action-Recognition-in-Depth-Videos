@@ -1,0 +1,22 @@
+﻿生成启动时间为 2015/5/5 8:59:11。
+     1>项目“C:\Users\Zson\Desktop\graduate1_2\MR\2015-04-27AfterDData\MSR_part (soon's copy_c++)\MSR\MSR\MSR.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         F:\VS2012\VC\bin\CL.exe /c /I"C:\Users\Zson\Desktop\graduate1_1\lab_mr\translate\eigen-eigen-10219c95fe65" /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _CRT_SECURE_NO_WARNINGS /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt "..\..\..\MSR_part (soon's copy_c++)\MSR\MSR\ForestBuilder.cpp" "..\..\..\MSR_part (soon's copy_c++)\MSR\MSR\GetDataHelper.cpp" "..\..\..\MSR_part (soon's copy_c++)\MSR\MSR\MSR.cpp" Tools.cpp
+         ForestBuilder.cpp
+         GetDataHelper.cpp
+         MSR.cpp
+         Tools.cpp
+     1>Tools.cpp(185): warning C4101: “tmp”: 未引用的局部变量
+       Link:
+         F:\VS2012\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Zson\Desktop\graduate1_2\MR\2015-04-27AfterDData\MSR_part (soon's copy_c++)\MSR\Release\MSR.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Zson\Desktop\graduate1_2\MR\2015-04-27AfterDData\MSR_part (soon's copy_c++)\MSR\Release\MSR.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Zson\Desktop\graduate1_2\MR\2015-04-27AfterDData\MSR_part (soon's copy_c++)\MSR\Release\MSR.lib" /MACHINE:X86 /SAFESEH Release\ForestBuilder.obj
+         Release\GetDataHelper.obj
+         Release\Tools.obj
+         Release\MSR.obj
+         正在生成代码
+         已完成代码的生成
+         MSR.vcxproj -> C:\Users\Zson\Desktop\graduate1_2\MR\2015-04-27AfterDData\MSR_part (soon's copy_c++)\MSR\Release\MSR.exe
+     1>已完成生成项目“C:\Users\Zson\Desktop\graduate1_2\MR\2015-04-27AfterDData\MSR_part (soon's copy_c++)\MSR\MSR\MSR.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:20.07
